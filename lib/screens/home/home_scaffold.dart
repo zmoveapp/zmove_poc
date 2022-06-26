@@ -27,6 +27,9 @@ Scaffold homeScafold(context, widget, _counter, _incrementCounter) {
         // horizontal).
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
+          const Image(
+              image: NetworkImage(
+                  'https://image.made-in-china.com/155f0j00eJqiwAVzlRbt/Double-Crazy-Flutter-Sleeve-Ruffle-Hem-Schiffy-Summer-Sexy-Women-Fashion-Short-Sleeves-Dress.jpg')),
           const Text(
             'You have pushed the button this many times:',
           ),
