@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   height="19"
+   width="67"
+   id="svg178"
+   version="1.1"
+   viewBox="0 0 67 19">
+  <metadata
+     id="metadata182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>rute</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22">
+    <style
+       id="style2">.cls-1,.cls-12,.cls-13,.cls-18,.cls-21,.cls-22,.cls-7{fill:none;}.cls-2{fill:#ddded9;}.cls-3{isolation:isolate;}.cls-14,.cls-4,.cls-9{fill:#fff;}.cls-5{fill:#999;}.cls-6{font-size:121px;}.cls-23,.cls-6{fill:#88c064;}.cls-6,.cls-9{font-family:ProximaNova-Bold, Proxima Nova;font-weight:700;}.cls-7{stroke:#bcbcbc;stroke-width:13px;}.cls-12,.cls-18,.cls-7{stroke-linecap:round;}.cls-13,.cls-14,.cls-18,.cls-21,.cls-22,.cls-7{stroke-miterlimit:10;}.cls-8{fill:url(#Degradado_sin_nombre_6);}.cls-9{font-size:65px;}.cls-10{opacity:0.25;}.cls-10,.cls-17,.cls-26{mix-blend-mode:multiply;}.cls-11{clip-path:url(#clip-path);}.cls-12{stroke-linejoin:round;stroke:url(#Degradado_sin_nombre_6-2);}.cls-12,.cls-13{stroke-width:20px;}.cls-13{stroke:url(#Degradado_sin_nombre_6-3);}.cls-14{stroke-width:16px;stroke:url(#Degradado_sin_nombre_6-4);}.cls-15{fill:url(#Degradado_sin_nombre_6-5);}.cls-16{fill:#1d1d1b;}.cls-17{opacity:0.3;}.cls-18,.cls-21,.cls-22{stroke:#88c064;}.cls-18,.cls-21{stroke-width:4px;}.cls-19{font-size:48px;fill:#919191;font-family:ProximaNova-Regular, Proxima Nova;}.cls-20{letter-spacing:-0.01em;}.cls-22{stroke-width:3px;}.cls-24{fill:#c4c4c4;}.cls-25{fill:url(#Degradado_sin_nombre_6-6);}.cls-26{opacity:0.2;}.cls-27{clip-path:url(#clip-path-2);}</style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="2194"
+       x2="1037.8"
+       y1="2194"
+       x1="146.8"
+       id="Degradado_sin_nombre_6">
+      <stop
+         id="stop4"
+         stop-color="#a0ce9e"
+         offset="0" />
+      <stop
+         id="stop6"
+         stop-color="#88c064"
+         offset="0.51" />
+      <stop
+         id="stop8"
+         stop-color="#9cc438"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       transform="translate(29.5 61.5)"
+       id="clip-path">
+      <rect
+         id="rect11"
+         rx="95.5"
+         height="1503"
+         width="1125"
+         y="417.5"
+         x="0.30000001"
+         class="cls-1" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#Degradado_sin_nombre_6"
+       y2="933.37"
+       x2="892.40002"
+       y1="933.37"
+       x1="382.39999"
+       id="Degradado_sin_nombre_6-2" />
+    <linearGradient
+       xlink:href="#Degradado_sin_nombre_6"
+       gradientTransform="rotate(-70.62,3246.1791,3081.2516)"
+       y2="-439.01001"
+       x2="4687.5298"
+       y1="-439.01001"
+       x1="4611.5298"
+       id="Degradado_sin_nombre_6-3" />
+    <linearGradient
+       xlink:href="#Degradado_sin_nombre_6"
+       gradientTransform="rotate(-70.62,3246.1791,3081.2516)"
+       y2="-191.60001"
+       x2="4457.27"
+       y1="-191.60001"
+       x1="4382.9199"
+       id="Degradado_sin_nombre_6-4" />
+    <linearGradient
+       xlink:href="#Degradado_sin_nombre_6"
+       y2="887.90997"
+       x2="556.63"
+       y1="887.90997"
+       x1="540.63"
+       id="Degradado_sin_nombre_6-5" />
+    <linearGradient
+       xlink:href="#Degradado_sin_nombre_6"
+       y2="2388.1699"
+       x2="638.13"
+       y1="2388.1699"
+       x1="617.13"
+       id="Degradado_sin_nombre_6-6" />
+    <clipPath
+       transform="translate(29.5 61.5)"
+       id="clip-path-2">
+      <circle
+         id="circle19"
+         r="121.06"
+         cy="1219.16"
+         cx="239.24001"
+         class="cls-2" />
+    </clipPath>
+  </defs>
+  <title
+     id="title24">rute</title>
+  <g
+     transform="translate(-8.5306661,-1530.2191)"
+     id="Capa_1"
+     data-name="Capa 1"
+     style="isolation:isolate">
+    <g
+       style="isolation:isolate"
+       id="g1096"
+       transform="translate(-192.81934,-159.26093)">
+      <line
+         class="cls-18"
+         x1="249.85001"
+         y1="1698.98"
+         x2="219.85001"
+         y2="1698.98"
+         id="line145" />
+      <circle
+         class="cls-22"
+         cx="258.85001"
+         cy="1698.98"
+         r="8"
+         id="circle147" />
+      <circle
+         class="cls-22"
+         cx="210.85001"
+         cy="1698.98"
+         r="8"
+         id="circle149" />
+    </g>
+  </g>
+</svg>
