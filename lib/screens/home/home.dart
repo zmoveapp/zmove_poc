@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         body: Column(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
           Expanded(child: Image.asset('images/logo.png')),
-          Expanded(child: Image.asset('images/logo.png')),
+          Expanded(flex: 2, child: Image.asset('images/logo.png')),
           Expanded(child: Image.asset('images/logo.png')),
         ]));
   }
